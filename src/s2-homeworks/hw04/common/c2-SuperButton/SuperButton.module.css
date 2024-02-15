@@ -10,6 +10,7 @@
   font-weight: 600;
   line-height: 20px;
   color: #fff;
+  cursor: pointer;
 }
 
 .disabled {
